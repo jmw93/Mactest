@@ -1,15 +1,10 @@
-//
-//  main.cpp
-//  algorithm-git
-//
-//  Created by minwoo on 07/04/2020.
-//  Copyright © 2020 minwoo. All rights reserved.
-//
-
 #include <iostream>
+#include <vector>
+#include <stdio.h>
+#include <stack>
+
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    cout<<"깃테스트 중";
 }
